@@ -13,8 +13,8 @@
         <sonar.organization>visionittesting</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
-    
-        <dependencies>
+
+    <dependencies>
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
@@ -59,11 +59,8 @@
             <artifactId>log4j-core</artifactId>
             <version>2.13.1</version>
         </dependency>
-        
-    
-        
 
     </dependencies>
-    
-  
+
 </project>
+      

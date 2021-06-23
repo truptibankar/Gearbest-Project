@@ -8,7 +8,7 @@ Feature: Login functionality
   When User clicked on register button
   And User entered email id "truptibankar12@gmail.com"
   And User entered password "Trupti@95"
-  And User entered confirmed password
+  And User entered confirmed password "Trupti@95"
   And User clicked on register button
   Then Usee new account created
   
